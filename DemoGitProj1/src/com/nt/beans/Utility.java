@@ -23,7 +23,6 @@ public class Utility {
 		
 	}
    
->>>>>>> stash
 	
 
 }
